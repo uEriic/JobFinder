@@ -1,5 +1,5 @@
 <h1 align="center">Jobs Finder</h1>
-<p>Este é um template gratuito para sites de buscar emprego.<br><strong>Link do Projeto:</strong> <code>Em breve...</code></p>
+<p>Este é um template gratuito para sites de buscar emprego.<br><strong>Link do Projeto:</strong> http://195.88.218.13:2176 <code>URL personalizada em breve.</code></p>
 <h3>Sumário</h3>
 <ol>
     <li><a href="#intro">Introdução</a></li>
