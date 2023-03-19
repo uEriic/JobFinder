@@ -23,7 +23,7 @@
 <div>
     <p>Últimas Vagas: <a href="#">Link</a></p>
 
-![LAST JOBS](https://i.imgur.com/   2X8iUU5.png)
+![LAST JOBS](https://i.imgur.com/2X8iUU5.png)
 </div>
 <hr>
 <div>
