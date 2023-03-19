@@ -17,27 +17,25 @@
 <div>
     <p>Ínicio: <a href="#">Link</a></p>
 
-    ![ÍNICIO](https://i.imgur.com/5AHwIvS.png)
+![ÍNICIO](https://i.imgur.com/5AHwIvS.png)
 </div>
 <hr>
 <div>
     <p>Últimas Vagas: <a href="#">Link</a></p>
 
-    ![LAST JOBS](https://i.imgur.com/   2X8iUU5.png)
+![LAST JOBS](https://i.imgur.com/   2X8iUU5.png)
 </div>
 <hr>
 <div>
     <p>Enviar Vaga: <a href="#">Link</a></p>
 
-    ![SEND A JOB](https://i.imgur.com/nEM8icQ.png)
+![SEND A JOB](https://i.imgur.com/nEM8icQ.png)
 </div>
-<a href="">
-    <hr>
-</a>
+<hr>
 <div>
     <p>Procurar Vaga: <a href="#">Link</a></p>
 
-    ![FIND A JOB](https://i.imgur.com/l8g1jwr.png)
+![FIND A JOB](https://i.imgur.com/l8g1jwr.png)
 </div>
 
 <h1 align="center" id="aboutme">Sobre Mim</h1>
